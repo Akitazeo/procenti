@@ -1,0 +1,4 @@
+theme: minima
+title: Гос долг
+description: Гос долг от нас для вас
+author: {{ login }}
